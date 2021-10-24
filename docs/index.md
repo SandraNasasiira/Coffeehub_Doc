@@ -1,3 +1,4 @@
+## COFFEE HUB
    <img src="images/coffee.jpg" >
 # BACKGROUND.
 The Western style of drinking coffee started in 1999 thanks to  Java House.Considering the high regard the Western world has for Kenyan coffee,it is curious that it took so long to develop its own coffee culture.(SantaFerelo,2015). For years the coffee culture has been existent and embraced in different countries.
