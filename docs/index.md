@@ -1,6 +1,7 @@
+   <img src="images/coffee.jpg" >
 # BACKGROUND.
 The Western style of drinking coffee started in 1999 thanks to  Java House.Considering the high regard the Western world has for Kenyan coffee,it is curious that it took so long to develop its own coffee culture.(SantaFerelo,2015). For years the coffee culture has been existent and embraced in different countries.
-Throughout our research,we noticed a lack of pride in the consumption  of  Kenyan coffee where people don't embrace the different coffee practices and varieties despite being ranked as the best producer of coffee. 
+Throughout our research,we noticed a lack of pride in the consumption  of  Kenyan coffee where people don't embrace the different coffee practices and varieties despite being ranked as the best producer of coffee.
 This led us to find innovative ways of bringing back the coffee culture in kenya in order to make people take pride in coffee and coffee consumption.
 
 # PROBLEM STATEMENT.
